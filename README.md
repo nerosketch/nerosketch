@@ -1,4 +1,8 @@
 ### Hi there 👋
+# Hi there, I'm [Dmitry](https://t.me/nerosketch) 👋
+
+### My skills from codersrank.io
+![My skills from codersrank.io](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nerosketch)
 
 <!--
 **nerosketch/nerosketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
