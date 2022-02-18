@@ -1,5 +1,7 @@
 ### Hi there, I'm [Dmitry](https://t.me/nerosketch) 👋
 
+<img src="https://raw.githubusercontent.com/nerosketch/nerosketch/main/hz.svg?sanitize=true">
+
 ##### My skills from codersrank.io
 ![My skills from codersrank.io](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nerosketch)
 
@@ -18,4 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/nerosketch/nerosketch/main/hz.svg?sanitize=true">
