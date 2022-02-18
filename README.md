@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Alt text](https://raw.githubusercontent.com/nerosketch/nerosketch/main/hz.svg?sanitize=true)
+<img src="https://raw.githubusercontent.com/nerosketch/nerosketch/main/hz.svg?sanitize=true">
